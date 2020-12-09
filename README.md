@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Sebastien 👋
 
-<!--
-**s3bc40/s3bc40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I’m currently working on my Django-Vue.js Todo app. I am trying to make a REST API with Django and handle the front with Vue.js.
+- :loudspeaker: I’m near the end of my contract as an Assistant software engineer, at the IUT de Bayonne. Currently searching for an interesting job with a great Team !
+- :busts_in_silhouette: I’m looking to collaborate on cool open source projects related to Django or Vue.js.
+- :stars: I'am interested in ecology, hiking, badminton, gaming and dogs !
+- 💬 Ask me about everything related to my interests or my job. I do not bite !
+- 📫 How to reach me: [Github Pages](https://s3bc40.github.io/), [LinkedIn](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/), [Reddit](https://www.reddit.com/user/s3bc40), [s.goncalvesclaro@gmail.com](mailto:s.goncalvesclaro@gmail.com)
+- ⚡ Fun fact: My dog is a princess and I can't do anything about it !  
 
-Here are some ideas to get you started:
+![S3bc40's github stats](https://github-readme-stats.vercel.app/api?username=s3bc40&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3bc40&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
