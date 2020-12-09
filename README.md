@@ -10,4 +10,4 @@
 
 ![S3bc40's github stats](https://github-readme-stats.vercel.app/api?username=s3bc40&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3bc40&hide=html,jupyter%20notebook&exclude_repo=kaggle_competitions&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3bc40&hide=jupyter%20notebook&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
