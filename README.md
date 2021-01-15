@@ -1,7 +1,7 @@
 ### Hi there, I am Sebastien 👋
 
-- :computer: I’m currently working on my Django-Vue.js Todo app. I am trying to make a REST API with Django and handle the front with Vue.js.
-- :loudspeaker: I’m near the end of my contract as an Assistant software engineer, at the IUT de Bayonne. Currently searching for an interesting job with a great Team !
+- :computer: I’m currently working on my [Vue.js](https://v3.vuejs.org/) portfolio. I am working with [TailwindCSS](https://tailwindcss.com/), [Greensock](https://greensock.com/).
+- :loudspeaker: I have finished my contract as an Assistant software engineer, at the IUT de Bayonne. Currently searching for an interesting job with a great Team !
 - :busts_in_silhouette: I’m looking to collaborate on cool open source projects related to Django or Vue.js.
 - :stars: I'am interested in ecology, hiking, badminton, gaming and dogs !
 - 💬 Ask me about everything related to my interests or my job. I do not bite !
