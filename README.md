@@ -11,7 +11,7 @@
 ---
 ### Blockchain advancement 🤯
 - 🔖 Builder profile on Speed Run ETH : [](https://speedrunethereum.com/builders/0x44586c5784a07Cc85ae9f33FCf6275Ea41636A87)
-- Cyfrin updraft :
+- 🐸 Cyfrin updraft :
 <img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
 <img src="https://github.com/user-attachments/assets/b69ec8a0-930c-4fe0-a4de-2915bb9c6211" alt="solidity-completed" width="250"/>
 
