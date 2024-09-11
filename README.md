@@ -17,7 +17,7 @@
 
 ---
 ### Miscellaneous
-<a href="https://app.daily.dev/s3bc40"><img src="https://api.daily.dev/devcards/ff4cb161434f4f18966d9b5c31f23b7e.png?r=f4r" width="400" alt="Sebastien's Dev Card"/></a>
+<a href="https://app.daily.dev/s3bc40"><img src="https://api.daily.dev/devcards/v2/p8SEgfyGs.png?r=p4q&type=default" width="356" alt="Sebastien's Dev Card"/></a>
 
 ![S3bc40's github stats](https://github-readme-stats.vercel.app/api?username=s3bc40&show_icons=true&theme=synthwave)
 
