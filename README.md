@@ -19,6 +19,6 @@
 ### Miscellaneous
 <a href="https://app.daily.dev/s3bc40"><img src="https://api.daily.dev/devcards/v2/p8SEgfyGs.png?r=p4q&type=default" width="356" alt="Sebastien's Dev Card"/></a>
 
-![S3bc40's github stats](https://github-readme-stats.vercel.app/api?username=s3bc40&show_icons=true&theme=synthwave)
+[S3bc40's github stats](https://github-readme-stats.vercel.app/api?username=s3bc40&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3bc40&hide=jupyter%20notebook&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3bc40&hide=jupyter%20notebook&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
