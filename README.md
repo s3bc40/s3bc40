@@ -5,7 +5,7 @@
 - :busts_in_silhouette: I’m looking to collaborate on cool open source projects or other opportunities.
 - :stars: I'am interested in ecology, hiking, sports, gaming and dogs !
 - 💬 Ask me about everything related to my interests or my job. I do not bite !
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sgoncalvesclaro-bioinfo/), [s.goncalvesclaro@gmail.com](mailto:s.goncalvesclaro@gmail.com)
+- 📫 How to reach me: [s3bc40@gmail.com](mailto:s3bc40@gmail.com)
 - ⚡ Fun fact: My dog is a princess and I can't do anything about it !
 
 ---
