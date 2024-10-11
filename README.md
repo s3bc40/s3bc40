@@ -15,7 +15,7 @@
 <div align="center"><a href="https://app.daily.dev/s3bc40"><img src="https://api.daily.dev/devcards/v2/p8SEgfyGs.png?type=default&r=53o" width="356" alt="Sebastien's Dev Card"/></a></div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="s3bc40" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/s3bc40" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/s3bc40" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="mailto:s3bc40@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/s3bc40" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/s3bc40" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">I’m currently learning Blockchain and Defi to be able to reach a new community and to get new skills. I’m looking to collaborate on cool open source projects or other opportunities ! I am interested in ecology, hiking, sports, gaming and dogs ! 🚀</h3>**
 
