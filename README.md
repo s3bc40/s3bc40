@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/5a7bfe65-fc92-458c-9e11-03b8f190d20d)
+![web3_banner](https://github.com/user-attachments/assets/d8e06991-3a0e-445a-bf4a-e7106223e13a)
 
 ![Profile views](https://komarev.com/ghpvc/?username=s3bc40&label=Profile%20views&color=0e75b6&style=flat)
 
