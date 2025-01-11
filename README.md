@@ -32,7 +32,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=s3bc40&theme=aura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3bc40&theme=aura&hide_title=false&layout=compact&langs_count=10&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3bc40&theme=aura&hide_title=false&layout=compact&langs_count=12&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 ### Blockchain advancement 🤯
