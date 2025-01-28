@@ -97,12 +97,16 @@
 --- 
 
 <h3 align="left">🤯 Blockchain advancement</h3>
+
 - 🔖 Builder profile on Speed Run ETH : <https://speedrunethereum.com/builders/0x44586c5784a07Cc85ae9f33FCf6275Ea41636A87>
 - 🐸 Cyfrin updraft :
-<img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
-<img src="https://github.com/user-attachments/assets/b69ec8a0-930c-4fe0-a4de-2915bb9c6211" alt="solidity-completed" width="250"/>
-<img src="https://github.com/user-attachments/assets/eb22dfb5-5090-4d3e-9448-b2177cee93f2" alt="foundry-completed" width="250"/>
-<img src="https://github.com/user-attachments/assets/42b57e2e-c047-4d68-b00f-889f6628ffe1" alt="advanced-foundry-completed" width="250"/>
-<img src="https://github.com/user-attachments/assets/a741bb3e-e43a-4dff-948c-0cd01ab5411b" alt="intro-python-vyper" width="250"/>
-<img src="https://github.com/user-attachments/assets/eca8245e-93db-4ad7-ba5a-40b64679ff78" alt="intermediate-python-vyper-smart-contract-development-completed" width="250"/>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b69ec8a0-930c-4fe0-a4de-2915bb9c6211" alt="solidity-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/eb22dfb5-5090-4d3e-9448-b2177cee93f2" alt="foundry-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/42b57e2e-c047-4d68-b00f-889f6628ffe1" alt="advanced-foundry-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a741bb3e-e43a-4dff-948c-0cd01ab5411b" alt="intro-python-vyper" width="250"/>
+  <img src="https://github.com/user-attachments/assets/eca8245e-93db-4ad7-ba5a-40b64679ff78" alt="intermediate-python-vyper-smart-contract-development-completed" width="250"/>
+</div>
 
