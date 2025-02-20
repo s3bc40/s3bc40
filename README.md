@@ -108,5 +108,7 @@
   <img src="https://github.com/user-attachments/assets/42b57e2e-c047-4d68-b00f-889f6628ffe1" alt="advanced-foundry-completed" width="250"/>
   <img src="https://github.com/user-attachments/assets/a741bb3e-e43a-4dff-948c-0cd01ab5411b" alt="intro-python-vyper" width="250"/>
   <img src="https://github.com/user-attachments/assets/eca8245e-93db-4ad7-ba5a-40b64679ff78" alt="intermediate-python-vyper-smart-contract-development-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/486a0065-ced7-457f-a885-4d61fac2c499" alt="advanced-python-vyper-smart-contract-development-completed" width="250"/>
 </div>
+
 
