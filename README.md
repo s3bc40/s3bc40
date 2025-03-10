@@ -18,7 +18,7 @@
 
 
  <h3 align="left">
-   Currently learning the Web3 ecosystem to become a **smart contract engineer**. Looking for great open source projects to contribute to a fair system and a new economy model. I am interested in hiking, sports, gaming and dogs
+   Currently learning the Web3 ecosystem to become a smart contract engineer. Looking for great open source projects to contribute to a fair system and a new economy model. I am interested in hiking, sports, gaming and dogs
  </h3>
 
 **<h3 align="left">🔥 Rapid Fire</h3>**
