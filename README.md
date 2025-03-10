@@ -23,7 +23,7 @@
 
 **<h3 align="left">🔥 Rapid Fire</h3>**
 
-- ⚙️ I'm currently working on: **Cyfrin Updraft Vyper course and Rust book**
+- ⚙️ I'm currently working on: **Rust book**
 - 🌱 I'm currently learning: **Rust, Vyper, Python, Solidity**
 - 💬 Ask me about: **Vyper, Python, Moccasin, Rust, Solidity, Foundry, Blockchain, Web3**
 - 💼 Work & Company: None but trying to find the right place by building, learning and networking!
