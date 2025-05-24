@@ -37,6 +37,7 @@
   <img src="https://github.com/user-attachments/assets/eca8245e-93db-4ad7-ba5a-40b64679ff78" alt="intermediate-python-vyper-smart-contract-development-completed" width="250"/>
   <img src="https://github.com/user-attachments/assets/486a0065-ced7-457f-a885-4d61fac2c499" alt="advanced-python-vyper-smart-contract-development-completed" width="250"/>
   <img src="https://github.com/user-attachments/assets/55a69ac2-2d39-4474-96fd-9de7b7977376" alt="full-stack-web3-development-crash-course" width="250"/>
+  <img src="https://github.com/user-attachments/assets/386aebc3-e2e8-40fd-bf7d-90f4fae72c3a" alt="fundamentals-of-zero-knowledge-proofs-completed" width="250"/>
 </div>
 
 
