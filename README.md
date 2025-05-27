@@ -1,4 +1,4 @@
-![web3_banner](https://github.com/user-attachments/assets/d8e06991-3a0e-445a-bf4a-e7106223e13a)
+![web3_banner](https://github.com/user-attachments/assets/5d8d475d-2fcf-42ca-8f35-295f73ab040d)
 ![Profile views](https://komarev.com/ghpvc/?username=s3bc40&label=Profile%20views&color=0e75b6&style=flat)
 
 # 💫 About Me:
