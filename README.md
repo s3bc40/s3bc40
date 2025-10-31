@@ -23,6 +23,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🏗️ Hackathon
+
+<a href="https://collectors.poap.xyz/token/7483612">
+  <img src="https://assets.poap.xyz/aff6ed56-55d1-405f-b31e-28a568a6ea3a.png" alt="blockchain-basics-completed" width="250"/>
+</a>
+
 ## 🤯 Blockchain advancement
 
 - 🔖 Builder profile on Speed Run ETH : <https://speedrunethereum.com/builders/0x44586c5784a07Cc85ae9f33FCf6275Ea41636A87>
