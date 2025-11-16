@@ -1,9 +1,8 @@
-![web3_banner](https://pbs.twimg.com/profile_banners/1833805661186019328/1761985112/1080x360)
+![web3_banner](https://github.com/user-attachments/assets/67b9e85e-bf8d-44ef-8af3-b12f034bb630)
 ![Profile views](https://komarev.com/ghpvc/?username=s3bc40&label=Profile%20views&color=0e75b6&style=flat)
 
 # 💫 About Me:
-🔭 I’m currently working on building my career as Smart Contract Engineer and Security Researcher.<br>👯 I’m looking to collaborate on projects that help builders with tools and security.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning full-stack development for Blockchain.<br>💬 Ask me about my motivations to help the Web3 space to be mainstream.<br>⚡ Job status: open to work!
-
+🔭 I’m currently working on building my career as Full Stack Engineer.<br>👯 I’m looking to collaborate on projects that help builders with tools.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning Rust.<br>💬 Ask me about my motivations to help building great tools around blockchain or any tech subject.<br>⚡ Job status: open to work!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s3bc40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s3bc40@gmail.com) [![Proton](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:s3bc40@proton.me) 
