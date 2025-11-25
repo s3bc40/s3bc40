@@ -1,5 +1,6 @@
-![web3_banner](https://github.com/user-attachments/assets/67b9e85e-bf8d-44ef-8af3-b12f034bb630)
+![web3_banner](https://github.com/user-attachments/assets/ce054af7-053c-450d-b00a-f0212938f6cf)
 ![Profile views](https://komarev.com/ghpvc/?username=s3bc40&label=Profile%20views&color=0e75b6&style=flat)
+
 
 # 💫 About Me:
 🔭 I’m currently working on building my career as Full Stack Engineer.<br>👯 I’m looking to collaborate on projects that help builders with tools.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning Rust.<br>💬 Ask me about my motivations to help building great tools around blockchain or any tech subject.<br>⚡ Job status: open to work!
