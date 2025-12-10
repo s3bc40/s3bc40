@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on building my career as Full Stack Engineer.<br>👯 I’m looking to collaborate on projects that help builders with tools.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning Rust.<br>💬 Ask me about my motivations to help building great tools around blockchain or any tech subject.<br>⚡ Job status: open to work!
+🔭 I’m currently working on building my career as Software & AI agent Engineer.<br>👯 I’m looking to collaborate on projects that help builders with tools.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning AI development.<br>💬 Ask me about my motivations to help building great tools and my tech enthusiasm.<br>⚡ Job status: open to work!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s3bc40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s3bc40@gmail.com) [![Proton](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:s3bc40@proton.me) 
