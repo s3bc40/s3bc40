@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on building my career as Software & AI agent Engineer.<br>👯 I’m looking to collaborate on projects that help builders with tools.<br>🤝 I’m looking for help with getting in touch with communities and find my place in a job.<br>🌱 I’m currently learning AI development.<br>💬 Ask me about my motivations to help building great tools and my tech enthusiasm.<br>⚡ Job status: open to work!
+🔭 I’m currently working on exploring Cybersecurity.<br>👯 I’m looking to collaborate with experienced professional and mentors to guide me in security.<br>🤝 I’m looking for help with getting in touch with communities and find my place.<br>🌱 I’m currently passing Google Cybersecurity career certificate and ComptIA Sec+.<br>💬 Ask me about my interests on cybersecurity and why I want to dive into this field.<br>⚡ Job status: open to work!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s3bc40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s3bc40@gmail.com) [![Proton](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:s3bc40@proton.me) 
@@ -29,7 +29,7 @@
   <img src="https://assets.poap.xyz/aff6ed56-55d1-405f-b31e-28a568a6ea3a.png" alt="blockchain-basics-completed" width="250"/>
 </a>
 
-## 🤯 Blockchain advancement
+## 🤯 Blockchain exploration
 
 - 🔖 Builder profile on Speed Run ETH : <https://speedrunethereum.com/builders/0x44586c5784a07Cc85ae9f33FCf6275Ea41636A87>
 - 🐸 Cyfrin updraft :
