@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on exploring Cybersecurity.<br>👯 I’m looking to collaborate with experienced professional and mentors to guide me in security.<br>🤝 I’m looking for help with getting in touch with communities and find my place.<br>🌱 I’m currently passing Google Cybersecurity career certificate and ComptIA Sec+.<br>💬 Ask me about my interests on cybersecurity and why I want to dive into this field.<br>⚡ Job status: open to work!
+🔭 I’m currently working on exploring GenAI.<br>👯 I’m looking to collaborate with experienced professional and mentors to guide me in the AI dev world.<br>🤝 I’m looking for help with getting in touch with communities and find my place.<br>🌱 I’m currently passing Google Prompting Certificate and exploring [Deeplearning.AI](https://www.deeplearning.ai/).<br>💬 Ask me about running, new tech trends, and dogs.<br>⚡ Job status: open to work!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s3bc40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s3bc40@gmail.com) [![Proton](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:s3bc40@proton.me) 
