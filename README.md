@@ -3,7 +3,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on exploring GenAI.<br>👯 I’m looking to collaborate with experienced professional and mentors to guide me in the AI dev world.<br>🤝 I’m looking for help with getting in touch with communities and find my place.<br>🌱 I’m currently passing Google Prompting Certificate and exploring [Deeplearning.AI](https://www.deeplearning.ai/).<br>💬 Ask me about running, new tech trends, and dogs.<br>⚡ Job status: open to work!
+🔭 I’m currently working on Adrian Cantrill course AWS Solution Architect.<br>👯 I’m looking to collaborate with experienced professional and mentors to guide me in the Cloud computing world.<br>🤝 I’m looking for help with getting in touch with communities and find my place.<br>🌱 I’m currently passing [AWS Solution Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).<br>💬 Ask me about running, new tech trends, and dogs.<br>⚡ Job status: open to work!
+
+
+<a href="https://www.credly.com/badges/4017883f-6bde-4571-a7cd-6a1ca39b5d51/public_url"><img width="250" height="250" alt="google-ai-essentials" src="https://github.com/user-attachments/assets/e5585541-bf36-4378-a4c4-8ba8ec7e6c5e" /></a>
+<a href="https://www.credly.com/badges/fe7670ed-d26e-4895-bdd2-24023eedec2e/public_url"><img width="250" height="250" alt="google-prompting-essentials" src="https://github.com/user-attachments/assets/097b86ab-dc2a-402c-ab4f-709a5abe51f0" /></a>
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s3bc40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:s3bc40@gmail.com) [![Proton](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white)](mailto:s3bc40@proton.me) 
