@@ -63,5 +63,6 @@ Available for **freelance missions** and **CDI opportunities** · Hybrid from Le
 → [s3bc40.com](https://www.s3bc40.com)
 → [linkedin.com/in/sgoncalvesclaro](https://www.linkedin.com/in/sgoncalvesclaro/)
 → [s3bc40@gmail.com](mailto:s3bc40@gmail.com)
+→ [malt.fr](https://www.malt.fr/profile/sebastiengoncalvesclaro)
 
 Open to freelance contracts and CDI · Async-first · Responds within 24h
