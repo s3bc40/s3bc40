@@ -21,7 +21,7 @@ Available for **freelance missions** and **CDI opportunities** · Hybrid from Le
 
 | Project | Description | Install |
 |---|---|---|
-| [**devbrief**](https://github.com/s3bc40/devbrief) | AI-powered human-readable brief for any GitHub repo · Python CLI | `uvx devbrief <github-url>` |
+| [**devbrief**](https://github.com/s3bc40/devbrief) | AI-powered - Developer CLI for rapid project situational awareness | `uv tool install devbrief` |
 | [**txdecode**](https://github.com/s3bc40/txdecode) | Blazing fast EVM transaction decoder · Pure Rust CLI | `cargo install txdecode` |
 
 [![PyPI](https://img.shields.io/pypi/v/devbrief?style=flat-square&color=3670A0&label=devbrief%20on%20PyPI)](https://pypi.org/project/devbrief)
