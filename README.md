@@ -6,12 +6,15 @@
 
 <!-- about -->
 
-Full stack developer with 4 years of experience.
-I build MVPs, CLI tools, and internal tools fast — using AI-orchestrated development with Claude Code.
+Full stack engineer with 4 years of experience, based in Les Landes, FR.
 
-I stay in the driver's seat on architecture and decisions. Claude Code handles the volume.
+I take a problem, pick the right tool, and ship something that runs.
+From infra to interface, without over-engineering.
 
-Available for **freelance missions** and **CDI opportunities** · Hybrid from Les Landes, FR
+Python and TypeScript are my main ground. I reach for Rust for system-level
+performance, Go when the codebase requires it.
+
+Open to **full time remote positions** · Les Landes, FR
 
 <br>
 
@@ -21,8 +24,11 @@ Available for **freelance missions** and **CDI opportunities** · Hybrid from Le
 
 | Project | Description | Install |
 |---|---|---|
-| [**devbrief**](https://github.com/s3bc40/devbrief) | AI-powered - Developer CLI for rapid project situational awareness | `uv tool install devbrief` |
-| [**txdecode**](https://github.com/s3bc40/txdecode) | Blazing fast EVM transaction decoder · Pure Rust CLI | `cargo install txdecode` |
+| [**devbrief**](https://github.com/s3bc40/devbrief) | Developer CLI for project situational awareness · Python · Rust bridge via PyO3 | `uv tool install devbrief` |
+| [**txdecode**](https://github.com/s3bc40/txdecode) | EVM transaction decoder · Pure Rust CLI | `cargo install txdecode` |
+| [**otomais-memory**](https://github.com/s3bc40/otomais-memory) | MCP server · Dofus encyclopedia via Django + FastMCP | |
+| [**RoastDev**](https://github.com/s3bc40/roastdev) | Developer quiz app · Real-time multiplayer · React + Node + Socket.io | |
+| [**kiji-proxy**](https://github.com/dataiku/kiji-proxy) | Open source contribution · Dataiku ML platform proxy · Go | |
 
 [![PyPI](https://img.shields.io/pypi/v/devbrief?style=flat-square&color=3670A0&label=devbrief%20on%20PyPI)](https://pypi.org/project/devbrief)
 [![Crates.io](https://img.shields.io/crates/v/txdecode?style=flat-square&color=CE422B&label=txdecode%20on%20crates.io)](https://crates.io/crates/txdecode)
@@ -34,9 +40,9 @@ Available for **freelance missions** and **CDI opportunities** · Hybrid from Le
 ## // stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=fff)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
@@ -63,6 +69,5 @@ Available for **freelance missions** and **CDI opportunities** · Hybrid from Le
 → [s3bc40.com](https://www.s3bc40.com)
 → [linkedin.com/in/sgoncalvesclaro](https://www.linkedin.com/in/sgoncalvesclaro/)
 → [s3bc40@gmail.com](mailto:s3bc40@gmail.com)
-→ [malt.fr](https://www.malt.fr/profile/sebastiengoncalvesclaro)
 
-Open to freelance contracts and CDI · Async-first · Responds within 24h
+Open to full time remote positions · Async-first · Responds within 24h
