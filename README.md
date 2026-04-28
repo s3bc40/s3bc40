@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="s3bc40 · Sébastien Claro" width="100%"/>
+  <img src="./github_banner_s3bc40_animated.svg" alt="s3bc40 · Sébastien Claro" width="100%"/>
 </div>
 
 <br>
