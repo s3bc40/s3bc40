@@ -57,7 +57,7 @@ Open to **full time remote positions** · Les Landes, FR
 <div align="center">
   <img height="160" src="https://github-readme-stats-omega-nine-94.vercel.app/api?username=s3bc40&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show=prs_merged,prs_merged_percentage" alt="GitHub stats"/>
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-omega-nine-94.vercel.app/api/top-langs/?username=s3bc40&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6&hide=html,tex,r,makefile,solidity,vyper" alt="Top languages"/>
+  <img height="160" src="https://github-readme-stats-omega-nine-94.vercel.app/api/top-langs/?username=s3bc40&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=html,tex,jupyter%20notebook" alt="Top languages"/>
 </div>
 
 <br>
