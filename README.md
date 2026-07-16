@@ -14,7 +14,7 @@ From infra to interface, without over-engineering.
 Python and TypeScript are my main ground. I reach for Rust for system-level
 performance, Go when the codebase requires it.
 
-Open to **full time remote positions** · Les Landes, FR
+Working at **Nova Report** · Les Landes, FR
 
 <br>
 
